@@ -1,3 +1,8 @@
+### This repo is the lab of MIT 6.068 lab xv6 os implementation for self-paced learning
+
+Original README:
+*** 
+
 xv6 is a re-implementation of Dennis Ritchie's and Ken Thompson's Unix
 Version 6 (v6).  xv6 loosely follows the structure and style of v6,
 but is implemented for a modern RISC-V multiprocessor using ANSI C.
